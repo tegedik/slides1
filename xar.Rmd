@@ -1,0 +1,95 @@
+---
+title: "Sağlık Sosyolojisi"
+subtitle: "Sağlık Bilimleri Fakültesi - Beslenme ve Diyetetik Bölümü"
+author: "Tahir Enes Gedik"
+date: "27.02.2019"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+class: my-one-page-font
+
+# Sosyoloji Nedir?
+
+--
+
+- "İnsan grupları ve toplumlarının, sanayileşmiş dünya üzerinde özellikle duracak biçimde, incelenmesi. Toplumbilim, aralarında antropoloji, ekonomi, siyaset bilimi ile insan coğrafyasının da bulunduğu bir grup toplumsa bilimden biridir."
+
+
+--
+
+- Sosyoloji insanların, grupların ve toplumsal yapıların sistematik olarak incelenmesidir. Bir sosyal bilim olarak sosyoloji, toplumsal sorunların nedenlerinin anlaşılması ve çözümlenmesi için nesnel ve sistematik bir yaklaşım önerir. 
+
+--
+
+
+---
+class: my-one-page-font
+
+# Sosyoloji Nedir?
+
+--
+
+- *Neden sosyoloji ortaya çıktı?*
+
+--
+
+- Modern dönem: kapitalizmin yükselişi, devrimler, sanayileşme, kentleşme, sömürgecilik, milliyetçilik, ulus-devletlerin ortaya çıkışı, demokrasi, sekürlerleşme, bireycilik, bilim ve teknoloji...
+
+--
+
+- Sosyoloji: sorunlara yönelik bir disiplin
+
+---
+class: my-one-page-font
+
+# Sosyoloji Nedir?
+
+--
+
+C.W. Mills (1959): Sosyolojik İmgelem
+
+--
+
+- Başkalarının toplumsal konumunu dikkate almak  
+
+--
+
+-  Bireysel koşullar değil, toplumsal, ekonomik ve tarihsel koşullar üzerinden düşünmek  
+
+--
+
+- Farklı toplumsal seviyeler arasında geçiş yapabilmek
+
+--
+
+- Verili tanımlara karşı eleştirel olmak. 
+
+---
+class: my-one-page-font
+
+# Neden Sağlık Sosyolojisi?
+
+--
+
+Neden sosyoloji sağlık (ve hastalık) konusunu çalışır?
+
+--
+
+- Sosyologlar sağlık ve hastalık konularını *sadece* toplumda önemli meseleler ve çeşitli sorunların kaynakları oldukları için çalışmazlar
+
+--
+
+- Sağlık ayrıca toplumsa ilişkileri anlamamız için bize bir alan açar.
+
+--
+
+- Yani sağlık alanında çeşitli toplumsal ilişkiler *yeniden üretilir* ve bu alanı *biçimlendirir*. 
+
