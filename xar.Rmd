@@ -27,7 +27,6 @@ class: my-one-page-font
 
 - Sosyoloji insanların, grupların ve toplumsal yapıların sistematik olarak incelenmesidir. Bir sosyal bilim olarak sosyoloji, toplumsal sorunların nedenlerinin anlaşılması ve çözümlenmesi için nesnel ve sistematik bir yaklaşım önerir. 
 
---
 
 
 ---
